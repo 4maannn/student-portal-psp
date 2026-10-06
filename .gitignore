@@ -1,0 +1,12 @@
+# Real database credentials - never commit
+config/db_credentials.php
+
+# User uploads (keep the folder, ignore the pictures)
+uploads/profile/*
+!uploads/profile/.gitkeep
+!uploads/profile/.htaccess
+
+# Local / OS files
+.DS_Store
+Thumbs.db
+*.log

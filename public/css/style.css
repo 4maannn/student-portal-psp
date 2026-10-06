@@ -1,0 +1,20 @@
+body {
+    background-color: #f4f6f9;
+}
+
+.card {
+    border-radius: 0.75rem;
+}
+
+.navbar-brand i {
+    margin-right: 4px;
+}
+
+table th {
+    font-weight: 600;
+    color: #495057;
+}
+
+footer {
+    color: #adb5bd;
+}
